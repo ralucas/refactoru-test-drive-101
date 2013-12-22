@@ -15,7 +15,7 @@ Implement a pure splice function using test-driven development.
 1. Open test-runner.html in your browser. Open the dev tools console. See the errors that say FAIL? Congratulations, you're already through the "red" phase of test-drive development!
 1. Open spec.js in your editor. Implement the splice method so the accompanying tests all pass. You are not allowed to use the built-in splice method in your function; you are reproducing its functionality from scratch in a functional style.
 
-  > Tip: Look over the included assert functions which serve as a barebones testing framework. Look over the unit tests at   > the end (where assert is called) to see the kinds of things that are being tested for. You will get to write your own   > unit tests soon!
+  > Tip: Look over the included assert functions which serve as a barebones testing framework. Look over the unit tests at the end (where assert is called) to see the kinds of things that are being tested for. You will get to write your own unit tests soon!
 
 ######Part II
 1. Read the How Do I Jasmine tutorial.
