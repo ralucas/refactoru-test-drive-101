@@ -1,7 +1,7 @@
 Test Drive 101
 --------------
 ####Objective
-Implement a pure splice function using test-driven development
+Implement a pure splice function using test-driven development...
 
 ####Resources
 * [splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
